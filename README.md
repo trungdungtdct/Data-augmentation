@@ -3,7 +3,11 @@ A Data-Centric Evaluation of Augmentation Efficacy for Building Extraction: From
 This is the shared link in Google Drive.
 
 Scenario1: WHU-->WHU:
-https://drive.google.com/drive/folders/1edRAKwuyUzqoMZnv3-8knyjcxbG0YP-1?usp=sharing
+https://drive.google.com/drive/folders/15MR-l7IKD9JM7DEYdRlgytowSe8OLyHk?usp=drive_link
+https://drive.google.com/drive/folders/1NQla5XR1vAAm8xISZoRPl0ijMHbJM2sy?usp=drive_link
+https://drive.google.com/drive/folders/1Vd4Av8TtaIb8bhIWTytDZZ8xhvGdIHjr?usp=drive_link
+https://drive.google.com/drive/folders/157Nm-G0xw3Or0-TTHT71VvnXVrsUJ3k4?usp=drive_link
+https://drive.google.com/drive/folders/1tkQRAuUX18DMAsyharFviive8DaToP2K?usp=drive_link
 
 Scenario2:Japan-->Japan:
 https://drive.google.com/drive/folders/1tdBV2bNr9isUqy8C84f2Zw2IsxWHAr2m?usp=drive_link
